@@ -1,5 +1,4 @@
 # DmpUploader
-DmpUploader
 ========
 _DmpUploader_ is an C# console application that allows automatically uploading `.dmp`-files to a [dmpster](https://github.com/alexanderfloh/dmpster) instance.
 
